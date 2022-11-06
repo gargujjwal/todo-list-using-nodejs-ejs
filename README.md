@@ -2,24 +2,24 @@
 
 <!-- Project Shields -->
 <p align="center">
-  <a href="https://github.com/ujjwalgarg100204/todo-list-using-ejs-nodejs/network/members"
+  <a href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/network/members"
   >
     <img
-      src="https://img.shields.io/github/forks/ujjwalgarg100204/todo-list-using-ejs-nodejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/forks/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="fork-shield"
     />
   </a>
   <a
-    href="https://github.com/ujjwalgarg100204/todo-list-using-ejs-nodejs/blob/master/LICENSE.txt"
+    href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/blob/master/LICENSE.txt"
   >
     <img
-      src="https://img.shields.io/github/license/ujjwalgarg100204/todo-list-using-ejs-nodejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/license/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="license-shield"
     />
   </a>
-  <a href=" https://github.com/ujjwalgarg100204/todo-list-using-ejs-nodejs/stargazers">
+  <a href=" https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/stargazers">
     <img
-      src="https://img.shields.io/github/stars/ujjwalgarg100204/todo-list-using-ejs-nodejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/stars/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="star-shield"
     />
   </a>
@@ -50,13 +50,13 @@
     Simple ToDo List application using NodeJS and EJS view rendering
     <br />
     <a
-      href="https://github.com/ujjwalgarg100204/repo_name/issues"
+      href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/issues"
       aria-label="Link to issues of github repo"
       >Report Bug</a
     >
     ·
     <a
-      href="https://github.com/ujjwalgarg100204/repo_name/issues"
+      href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/issues"
       aria-label="Link to issues of github repo"
       >Request Feature</a
     >
@@ -76,7 +76,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -106,18 +105,11 @@ generates
 
 To get started, simply install the project by cloning it and contribute as mentioned in <a href="#contributing">Contribution</a> section
 
-### Prerequisites
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ujjwalgarg100204/repo_name.git
+   git clone https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs.git
    ```
 2. Install NPM packages
    ```sh
@@ -220,7 +212,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ujjwal Garg - [@linkedin_handle](https://linkedin.com/in/ujjwal-garg-3a5639243) - ujjwalgarg100204@gmail.com
 
-Project Link: [https://github.com/ujjwalgarg100204/repo_name](https://github.com/ujjwalgarg100204/repo_name)
+Project Link: [https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs](https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
