@@ -1,0 +1,50 @@
+<%- include("header") -%>
+
+<div class="box" id="heading">
+    <h1>
+        <%= kindOfDay %> List
+    </h1>
+</div>
+
+<div class="box">
+    <% todoList.todos.forEach(({_id, text}) => { %>
+        <form action="#" method="POST" class="item">
+            <input type="checkbox"/>
+            <p>
+                <%= text %>
+            </p>
+            <div style="display: none;">
+                <input
+                    type="text"
+                    name="todoId"
+                    value="<%= _id %>"
+                />
+            </div>
+        </form>
+    <% }) %>
+
+    <script>
+        document.querySelectorAll("input[type='checkbox']").forEach(todo => {
+            todo.addEventListener("change", ev => ev.target.parentElement.submit());
+        })
+    </script>
+
+    <form action="#" method="POST">
+        <label for="nextToDoListItem">
+            <input 
+                type="text"
+                id="nextToDoListItem" 
+                name="nextToDoListItem" 
+                placeholder="Next Item" 
+                autocomplete="off"
+                required
+            />
+        </label>
+
+        <button type="submit" name="list" value="<%= kindOfDay %>">
+            +
+        </button>
+    </form>
+</div>
+
+<%- include("footer") -%>

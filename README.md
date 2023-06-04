@@ -36,7 +36,7 @@
 <div align="center">
   <a href="#">
     <img
-      src="public/images/logo.png"
+      src="./src/public/images/logo.png"
       alt="Logo"
       width="80"
       height="80"
@@ -49,6 +49,12 @@
   <p align="center" aria-label="Short Description of the project">
     Simple ToDo List application using NodeJS and EJS view rendering
     <br />
+    <a
+      href="https://todo-list-using-nodejs-ejs.onrender.com/"
+      aria-label="Link to issues of github repo"
+      >
+      View Demo
+      </a>
     <a
       href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/issues"
       aria-label="Link to issues of github repo"
@@ -89,10 +95,7 @@
 
 <!-- ABOUT THE PROJECT -->
 <h2>About The Project</h2>
-Project uses Express JS and Node.JS on the backend to create a server for the application. Whenever any change is made to application and
-page needs to be reloaded, it is done so using EJS.
-This project does not use any persistent storage, such as MongoDB or SQL database, instead it uses simple JS array to store data that user
-generates
+Project uses Express JS and Node.JS on the backend to create a server for the application. Whenever any change is made to application and page needs to be reloaded, it is done so using EJS. This project does not use any persistent storage, such as MongoDB or SQL database, instead it uses simple JS array to store data that user generates
 <p align="center">
   <img src="readme_asset/demo.gif" alt="animated" />
 </p>
@@ -108,13 +111,13 @@ To get started, simply install the project by cloning it and contribute as menti
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs.git
-   ```
+    ```sh
+    git clone https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs.git
+    ```
 2. Install NPM packages
-   ```sh
-   npm install
-   ```
+    ```sh
+    npm install
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,6 +226,6 @@ Project Link: [https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs](h
 
 ## Acknowledgments
 
-- [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+-   [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
