@@ -214,7 +214,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Links
 
 -   Repo URL: [https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs](https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs)
--   Live Site URL: [https://ujjwalgarg100204.github.io/todo-list-using-nodejs-ejs](https://ujjwalgarg100204.github.io/todo-list-using-nodejs-ejs)
+-   Live Site URL: [https://todo-list-using-nodejs-ejs.onrender.com](https://todo-list-using-nodejs-ejs.onrender.com)
 
 <!-- AUTHOR -->
 
