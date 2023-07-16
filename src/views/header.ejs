@@ -9,7 +9,7 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 		<title style="text-transform: capitalize;">
 			<% if(listTitle.length !== 0) { %>
-				<%= listTitle.split("-").join(" ") %> List
+				<%= listTitle.split("-").map(word => word.charAt(0).toUpperCase() + word.substring(1)).join(" ") %> List
 			<% } else { %>
 				To Do List
 			<% } %>
