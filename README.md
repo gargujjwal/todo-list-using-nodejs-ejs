@@ -2,24 +2,24 @@
 
 <!-- Project Shields -->
 <p align="center">
-  <a href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/network/members"
+  <a href="https://github.com/gargujjwal/todo-list-using-nodejs-ejs/network/members"
   >
     <img
-      src="https://img.shields.io/github/forks/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/forks/gargujjwal/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="fork-shield"
     />
   </a>
   <a
-    href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/blob/master/LICENSE.txt"
+    href="https://github.com/gargujjwal/todo-list-using-nodejs-ejs/blob/master/LICENSE.txt"
   >
     <img
-      src="https://img.shields.io/github/license/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/license/gargujjwal/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="license-shield"
     />
   </a>
-  <a href=" https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/stargazers">
+  <a href=" https://github.com/gargujjwal/todo-list-using-nodejs-ejs/stargazers">
     <img
-      src="https://img.shields.io/github/stars/ujjwalgarg100204/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
+      src="https://img.shields.io/github/stars/gargujjwal/todo-list-using-nodejs-ejs.svg?style=for-the-badge"
       alt="star-shield"
     />
   </a>
@@ -56,13 +56,13 @@
       View Demo
       </a>
     <a
-      href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/issues"
+      href="https://github.com/gargujjwal/todo-list-using-nodejs-ejs/issues"
       aria-label="Link to issues of github repo"
       >Report Bug</a
     >
     ·
     <a
-      href="https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs/issues"
+      href="https://github.com/gargujjwal/todo-list-using-nodejs-ejs/issues"
       aria-label="Link to issues of github repo"
       >Request Feature</a
     >
@@ -101,7 +101,7 @@ Discover the ultimate Todo website powered by Node.js, TypeScript, Express, and 
 #### Mobile Design
 
 <p align="center">
-	<img src="./screenshots/mobile-view.gif" alt="mobile view" height="500" /> 
+ <img src="./screenshots/mobile-view.gif" alt="mobile view" height="500" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -168,17 +168,17 @@ Once user has their list name, one can simply append to the base link like so
   </li>
   <li>
     <a href="https://www.typescriptlang.org/">
-      <img 
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-        alt="ts shield" 
+      <img
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+        alt="ts shield"
       />
     </a>
   </li>
   <li>
     <a href="https://www.mongodb.com/">
-      <img 
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
-        alt="mongo shield" 
+      <img
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongo shield"
       />
     </a>
   </li>
@@ -213,22 +213,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs](https://github.com/ujjwalgarg100204/todo-list-using-nodejs-ejs)
--   Live Site URL: [https://todo-list-using-nodejs-ejs.onrender.com](https://todo-list-using-nodejs-ejs.onrender.com)
+- Repo URL: [https://github.com/gargujjwal/todo-list-using-nodejs-ejs](https://github.com/gargujjwal/todo-list-using-nodejs-ejs)
+- Live Site URL: [https://todo-list-using-nodejs-ejs.onrender.com](https://todo-list-using-nodejs-ejs.onrender.com)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
--   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
+- Website - [Ujjwal Garg](https://github.com/gargujjwal)
+- Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+- LinkedIn - [@gargujjwal](https://www.linkedin.com/in/gargujjwal/)
+- Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
--   [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
